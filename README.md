@@ -1,2 +1,2 @@
 # AJ-portfolio
-<img src="./images/Screenshot(27).png">
+<img src="../images/Screenshot(27).png">
